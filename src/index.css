@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #1C75BC;
+  --secondary: #E6F2FA;
+  --text: #1F1F1F;
+  --background: #FFFFFF;
+  --hover: #135C9C;
+  --success: #4CAF50;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  color: white;
+  transition: background-color 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: var(--hover);
+}
+
+.bg-secondary {
+  background-color: var(--secondary);
+}

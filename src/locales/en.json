@@ -1,0 +1,27 @@
+{
+  "search": {
+    "heading": "Pill Identifier",
+    "description": "Find pills by imprint, color, shape, dosage form, and more.",
+    "imprint": "Imprint",
+    "color1": "1st Color",
+    "color2": "2nd Color",
+    "color3": "3rd Color",
+    "shape": "Shape",
+    "dosageForm": "Dosage Form",
+    "scoring": "Scoring",
+    "any": "Any",
+    "clearFilters": "Clear Filters",
+    "results": "Results",
+    "noResults": "No pills found.",
+    "strength": "Strength"
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "about": "About"
+  },
+  "about": {
+    "title": "About Medentify",
+    "content": "Medentify is a simple and accessible tool for patients and healthcare providers to identify unknown pills. Future features will include AI image search and more."
+  }
+}
